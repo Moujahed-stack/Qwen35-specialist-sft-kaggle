@@ -1,0 +1,9 @@
+# Packages available to generated code when tests run (subprocess mode installs these locally;
+# docker mode bakes them into the image). Versions are the ones the reference solutions were verified with.
+fastapi==0.163.1
+pydantic==2.14.3
+sqlmodel==0.0.50
+sqlalchemy==2.1.8
+starlette==1.10.0
+httpx==0.28.1
+pytest==9.2.0
